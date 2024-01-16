@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BattleCity</string>
+    <string name="settings">settings</string>
 </resources>
